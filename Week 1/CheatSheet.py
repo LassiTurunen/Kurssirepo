@@ -28,10 +28,13 @@ print(Sentence[::-1])
 #age = 30 
 
 #print(name + " " str(age))
+#print(name, age)
+
 
 num1 = input("Anna luku 1 ")
 num2 = input("Anna luku 2 ")
 
 num3 = int(num1) + int(num2)
 print(num3)
+
 
