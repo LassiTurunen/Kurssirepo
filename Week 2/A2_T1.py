@@ -7,4 +7,4 @@ Second_number = float(Second_number)
 print(f"{Name} you gave numbers {First_number} and {Second_number}")
 Multi = First_number * Second_number
 print(f"Multiplying first and second number will result in product {round(Multi, 2)}")
-print("Program ending")
+print("Program ending.")
